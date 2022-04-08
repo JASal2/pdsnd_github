@@ -10,6 +10,7 @@ Bikeshare
 
 ### Description
 Describe what your project is about and what it does
+Explore data for 3 cities on how bike sharing is used.
 
 ### Files used
 Include the files used
