@@ -5,7 +5,7 @@
 
 ###Date created
 
-	Project and README file created on 4/8/2022 
+	Project and README file created on 4/8/2022
 
 
 ###Files added to gitignored
