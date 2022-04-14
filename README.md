@@ -7,9 +7,6 @@
 
 	Project and README file created on 4/8/2022
 
-###Files used
-
-	bikeshare.py
 
 ###Files added to gitignored
 
@@ -17,6 +14,6 @@
 	- new_york_city.csv
 	- washington.csv
 
-###Credits
+###Files used
 
-	Udacity Pyhton Bikeshare Project
+	bikeshare.py
