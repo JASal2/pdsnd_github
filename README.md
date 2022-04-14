@@ -18,3 +18,7 @@ Juan Salas
 ### Files used
 
 	bikeshare.py
+	
+### Credits
+
+	Udacity Pyhton Bikeshare Project
